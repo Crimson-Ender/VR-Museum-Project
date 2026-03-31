@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bonem\\OneDrive\\Documents\\Unreal Projects\\VRDevAssignment4_Bakerm7\\MyProject\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\bonem\\OneDrive\\Documents\\Unreal Projects\\VRDevAssignment4_Bakerm7\\MyProject\\Intermediate\\Source\\MyProject.Target.cs",
+		"C:\\Users\\bonem\\OneDrive\\Documents\\Unreal Projects\\VRDevAssignment4_Bakerm7\\MyProject\\Intermediate\\Source\\MyProjectClient.Target.cs",
+		"C:\\Users\\bonem\\OneDrive\\Documents\\Unreal Projects\\VRDevAssignment4_Bakerm7\\MyProject\\Intermediate\\Source\\MyProjectEditor.Target.cs",
+		"C:\\Users\\bonem\\OneDrive\\Documents\\Unreal Projects\\VRDevAssignment4_Bakerm7\\MyProject\\Intermediate\\Source\\MyProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
